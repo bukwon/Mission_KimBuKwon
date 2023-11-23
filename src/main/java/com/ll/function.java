@@ -156,3 +156,6 @@ class function {
         return divideWord;
     }           // 메뉴 문자 나누기
 }
+
+
+// 삭제?id=1
