@@ -39,3 +39,6 @@ setPrettyPrinting().create()를 이용해 빌드
 # 아쉬운 점
 객체를 더 나누어 가독성을 높였어야 했는데 자바가 익숙하지 않은 탓에 조금 절차 지향의 느낌으로 넣은 것 같다.
 다음 코딩을 구현할 때 객체를 분배할 고민이 더 필요하고 기술을 더 익혀야 할 것 같다.
+
+# 프로젝트 이후 수정 작품
+https://github.com/bukwon/JavaProject_Practice/tree/main
